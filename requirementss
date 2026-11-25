@@ -1,0 +1,5 @@
+pip install mendeleev
+pip install periodictable
+pip install vpython 
+pip install setuptools
+pip install plotly numpy
