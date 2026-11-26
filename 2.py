@@ -15,6 +15,5 @@ for letra in resp:
             print("SEQUENCIA INVALIDA, DIGITE OUTRAS BASES NITROGENADAS\n")
             codigo ="" 
             break
-    
 if codigo !="":
     print(codigo)
